@@ -1,10 +1,9 @@
 # braveclojure
 
-Some examples worked on from the book 'Clojure for the Brave and True'
+Some examples I worked on from the book 'Clojure for the Brave and True'
 
 http://www.braveclojure.com/
 
-## Usage
 
 
 ## License
